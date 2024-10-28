@@ -257,6 +257,9 @@ footer .con h1{
     .cart{
         width: 250px;
     }
+    header{
+        padding: 10px 40px;
+    }
     footer .con h1{
         font-size: 11px;
     }
